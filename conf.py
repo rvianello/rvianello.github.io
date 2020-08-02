@@ -158,7 +158,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "hack"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -1375,6 +1375,9 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+# Theme variant (see THEME settings above)
+GLOBAL_CONTEXT['HACK_VARIANT'] = 'dark'
 
 # Add any post types here that you want to be displayed without a title.
 # Ir your theme supports it, the titles will not be shown.
