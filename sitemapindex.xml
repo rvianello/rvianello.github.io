@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://rvianello.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-07-31T21:55:00Z</lastmod>
+  <lastmod>2020-08-02T21:11:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://rvianello.github.io/it/galleries/rss.xml</loc>
-  <lastmod>2020-07-31T21:55:00Z</lastmod>
+  <lastmod>2020-08-02T21:11:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://rvianello.github.io/it/rss.xml</loc>
@@ -23,6 +23,6 @@
  </sitemap>
  <sitemap>
   <loc>https://rvianello.github.io/sitemap.xml</loc>
-  <lastmod>2020-07-31T21:55:00Z</lastmod>
+  <lastmod>2020-08-02T21:11:00Z</lastmod>
  </sitemap>
 </sitemapindex>
