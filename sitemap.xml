@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://rvianello.github.io/archive.html</loc>
-  <lastmod>2020-10-05T19:44:00Z</lastmod>
+  <lastmod>2020-10-05T20:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://rvianello.github.io/categories/</loc>
@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>https://rvianello.github.io/it/archive.html</loc>
-  <lastmod>2020-10-05T19:44:00Z</lastmod>
+  <lastmod>2020-10-05T20:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://rvianello.github.io/it/categories/</loc>
@@ -51,8 +51,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://rvianello.github.io/posts/this-is-a-test/" />
  </url>
  <url>
-  <loc>https://rvianello.github.io/it/posts/this-is-a-test/</loc>
-  <lastmod>2020-10-05T19:44:00Z</lastmod>
+  <loc>https://rvianello.github.io/it/posts/this-is-another-test/</loc>
+  <lastmod>2020-10-05T20:13:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rvianello.github.io/posts/this-is-another-test/" />
  </url>
  <url>
   <loc>https://rvianello.github.io/listings/</loc>
@@ -62,5 +63,9 @@
   <loc>https://rvianello.github.io/posts/this-is-a-test/</loc>
   <lastmod>2020-10-05T19:44:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="it" href="https://rvianello.github.io/it/posts/questa-e-una-prova/" />
+ </url>
+ <url>
+  <loc>https://rvianello.github.io/posts/this-is-another-test/</loc>
+  <lastmod>2020-10-05T20:13:00Z</lastmod>
  </url>
 </urlset>
