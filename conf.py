@@ -224,6 +224,7 @@ THEME_CONFIG = {
 POSTS = (
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
+    ("posts/*.ipynb", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
 )
@@ -1377,7 +1378,7 @@ GLOBAL_CONTEXT = {}
 GLOBAL_CONTEXT_FILLER = []
 
 # Theme variant (see THEME settings above)
-GLOBAL_CONTEXT['HACK_VARIANT'] = 'dark'
+GLOBAL_CONTEXT['HACK_VARIANT'] = 'standard'
 
 # Add any post types here that you want to be displayed without a title.
 # Ir your theme supports it, the titles will not be shown.
