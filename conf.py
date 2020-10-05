@@ -17,14 +17,14 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Riccardo Vianello"  # (translatable)
-BLOG_TITLE = "My Nikola Site"  # (translatable)
+BLOG_TITLE = "This space intentionally left blank"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://rvianello.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://rvianello.github.io/"
-BLOG_EMAIL = "r.vianello@example.com"
+BLOG_EMAIL = "" #"r.vianello@example.com"
 BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
 
 # Nikola is multilingual!
