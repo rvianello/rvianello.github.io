@@ -1,6 +1,4 @@
-ARG fedora_release=31
-ARG rdkit_release=2020.03.3
-FROM rvianello/fedora-rdkit-python:${fedora_release}-${rdkit_release}
+FROM rvianello/fedora-rdkit:33-20201228.0
 
 # This Dockerfile image has a non-root user with sudo access. Use the "remoteUser"
 # property in devcontainer.json to use it. On Linux, the container user's GID/UIDs
@@ -23,6 +21,8 @@ RUN groupadd --gid $USER_GID $USERNAME \
 
 COPY requirements.txt .
 
-RUN python3 -m venv --system-site-packages /nikola \
-    && . /nikola/bin/activate \
-    && pip install -r ./requirements.txt
+RUN python3 -m venv --system-site-packages /opt/nikola \
+    && . /opt/nikola/bin/activate \
+    && pip install -r ./requirements.txt \
+    && chown -R ${USER_UID}:${USER_GID} /opt/nikola
+
