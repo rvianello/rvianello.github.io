@@ -25,7 +25,7 @@ SITE_URL = "https://rvianello.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://rvianello.github.io/"
 BLOG_EMAIL = "" #"r.vianello@example.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "-><-"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -98,7 +98,7 @@ DEFAULT_LANG = "en"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-    "it": "./it",
+    #"it": "./it",
 }
 
 # What will translated input files be named like?
@@ -143,11 +143,11 @@ NAVIGATION_LINKS = {
         ("/rss.xml", "RSS feed"),
     ),
 
-    "it": (
-        ("/it/archive.html", "Archivio"),
-        ("/it/categories/", "Tag"),
-        ("/it/rss.xml", "Feed RSS"),
-    ),
+    #"it": (
+    #    ("/it/archive.html", "Archivio"),
+    #    ("/it/categories/", "Tag"),
+    #    ("/it/rss.xml", "Feed RSS"),
+    #),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -158,7 +158,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "hack"
+THEME = "bootstrap4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -1378,7 +1378,7 @@ GLOBAL_CONTEXT = {}
 GLOBAL_CONTEXT_FILLER = []
 
 # Theme variant (see THEME settings above)
-GLOBAL_CONTEXT['HACK_VARIANT'] = 'standard'
+GLOBAL_CONTEXT['HACK_VARIANT'] = 'dark-grey'
 
 # Add any post types here that you want to be displayed without a title.
 # Ir your theme supports it, the titles will not be shown.
