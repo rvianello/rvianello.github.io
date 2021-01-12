@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://rvianello.github.io/</loc>
-  <lastmod>2020-10-05T19:44:00Z</lastmod>
+  <lastmod>2021-01-12T18:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://rvianello.github.io/2020/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://rvianello.github.io/archive.html</loc>
-  <lastmod>2020-12-31T13:57:00Z</lastmod>
+  <lastmod>2021-01-12T18:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://rvianello.github.io/categories/</loc>
@@ -42,71 +42,11 @@
   <lastmod>2020-07-31T21:55:00Z</lastmod>
  </url>
  <url>
-  <loc>https://rvianello.github.io/it/</loc>
-  <lastmod>2020-10-05T19:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/2020/</loc>
-  <lastmod>2020-10-05T19:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/archive.html</loc>
-  <lastmod>2020-12-30T14:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/categories/</loc>
-  <lastmod>2020-12-30T14:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/categories/chembl/</loc>
-  <lastmod>2020-12-30T14:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/categories/chemicalite/</loc>
-  <lastmod>2020-12-30T14:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/categories/rdkit/</loc>
-  <lastmod>2020-12-30T14:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/categories/sqlite/</loc>
-  <lastmod>2020-12-30T14:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/galleries/</loc>
-  <lastmod>2020-07-31T21:55:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/posts/extending-chembl-with-chemicalite-and-of-course-rdkit/</loc>
-  <lastmod>2020-12-30T14:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/posts/questa-e-una-prova/</loc>
-  <lastmod>2020-10-05T19:50:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/it/posts/this-is-another-test/</loc>
-  <lastmod>2020-10-05T20:13:00Z</lastmod>
- </url>
- <url>
   <loc>https://rvianello.github.io/listings/</loc>
   <lastmod>2020-07-31T21:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://rvianello.github.io/posts/extending-chembl-with-chemicalite-and-of-course-rdkit/</loc>
   <lastmod>2020-12-30T14:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/posts/questa-e-una-prova/</loc>
-  <lastmod>2020-12-30T15:03:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/posts/this-is-a-test/</loc>
-  <lastmod>2020-10-05T19:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://rvianello.github.io/posts/this-is-another-test/</loc>
-  <lastmod>2020-10-05T20:13:00Z</lastmod>
  </url>
 </urlset>

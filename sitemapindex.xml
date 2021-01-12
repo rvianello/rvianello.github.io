@@ -23,31 +23,7 @@
  </sitemap>
  <sitemap>
   <loc>https://rvianello.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-12-31T13:51:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rvianello.github.io/it/categories/chembl.xml</loc>
-  <lastmod>2020-12-30T15:01:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rvianello.github.io/it/categories/chemicalite.xml</loc>
-  <lastmod>2020-12-30T15:01:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rvianello.github.io/it/categories/rdkit.xml</loc>
-  <lastmod>2020-12-30T15:01:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rvianello.github.io/it/categories/sqlite.xml</loc>
-  <lastmod>2020-12-30T15:01:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rvianello.github.io/it/galleries/rss.xml</loc>
-  <lastmod>2020-12-30T14:04:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rvianello.github.io/it/rss.xml</loc>
-  <lastmod>2020-12-30T15:01:00Z</lastmod>
+  <lastmod>2021-01-12T18:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://rvianello.github.io/rss.xml</loc>
@@ -55,6 +31,6 @@
  </sitemap>
  <sitemap>
   <loc>https://rvianello.github.io/sitemap.xml</loc>
-  <lastmod>2020-12-31T13:57:00Z</lastmod>
+  <lastmod>2021-01-12T18:57:00Z</lastmod>
  </sitemap>
 </sitemapindex>
