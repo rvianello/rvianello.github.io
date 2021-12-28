@@ -3,11 +3,10 @@
 {
 	"name": "Nikola static site development",
 	"dockerFile": "Dockerfile",
-	"runArgs": [ "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined"],
+	"runArgs": ["--userns=keep-id", "--cap-add=SYS_PTRACE", "--security-opt", "label=disable"],
 
 	// Set *default* container specific settings.json values on container create.
 	"settings": { 
-		"terminal.integrated.shell.linux": "/bin/bash"
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
@@ -23,6 +22,6 @@
 	// "postCreateCommand": "gcc -v",
 
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
-	"remoteUser": "vscode"
+	"containerUser": "vscode"
 
 }

@@ -1,4 +1,4 @@
-FROM rvianello/fedora-rdkit:33-20201228.0
+FROM docker.io/rvianello/fedora-rdkit-python:35-2021.09.3
 
 # This Dockerfile image has a non-root user with sudo access. Use the "remoteUser"
 # property in devcontainer.json to use it. On Linux, the container user's GID/UIDs
