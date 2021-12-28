@@ -10,9 +10,16 @@
 This blog post collects some draft notes about how to use `ChemicaLite <https://github.com/rvianello/chemicalite>`_ 
 to integrate some chemistry logic directly into the SQLite version of the `ChEMBL <https://www.ebi.ac.uk/chembl/>`_ database [#f1]_.
 
+.. attention::
+
+    This post is now quite old, the overall workflow is still informative, but several details in the ChemicaLite API have changed. Please consider
+    referring to the similar `example <https://github.com/rvianello/chemicalite/blob/master/examples/setup_chembl.sql>`_ script that is part of
+    the source code distribution, and in general to the documentation that is also available from
+    `Read the Docs <https://chemicalite.readthedocs.io/en/latest/>`_.
+
 .. image:: /images/202012_t01.png
-    :align: center
     :alt: an unrelated image of a festive cat
+    :align: right
 
 .. code-block:: shell
 
