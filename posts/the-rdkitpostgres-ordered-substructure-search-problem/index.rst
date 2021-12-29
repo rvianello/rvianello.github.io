@@ -1,5 +1,5 @@
 .. title: About the RDKit/Postgres Ordered Substructure Search Problem
-.. slug: the-rdkitpostgres-ordered-substructure-search-problem-and-maybe-a-solution
+.. slug: the-rdkitpostgres-ordered-substructure-search-problem
 .. date: 2021-12-29 11:55:06 UTC+01:00
 .. tags: RDKit,PostgreSQL
 .. category: 
